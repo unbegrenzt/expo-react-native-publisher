@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expo React Native Publisher"
+  short_description: "TODO"
+  default_prompt: "Use $expo-react-native-publisher to TODO."
