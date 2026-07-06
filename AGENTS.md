@@ -2,7 +2,7 @@
 
 ## Project Type
 
-This development pattern (originally created with Crush) is for building Expo React Native applications. The convention applies to any agent or environment. It uses **Expo SDK + React Native + TypeScript** with component architecture strictly following **Atomic Design** methodology.
+`expo-ts-dev-pattern` is a skill and development pattern for building Expo React Native applications. The convention applies to any agent or environment. It uses **Expo SDK + React Native + TypeScript** with component architecture strictly following **Atomic Design** methodology.
 
 ---
 

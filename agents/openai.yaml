@@ -1,4 +1,4 @@
 interface:
-  display_name: "Expo React Native Publisher"
-  short_description: "TODO"
-  default_prompt: "Use $expo-react-native-publisher to TODO."
+  display_name: "Expo TS Dev Pattern"
+  short_description: "Expo TypeScript Atomic Design pattern"
+  default_prompt: "Use $expo-ts-dev-pattern to build or review an Expo React Native TypeScript app following Atomic Design."
