@@ -7,7 +7,9 @@ description: Use this skill when building, reviewing, or refactoring Expo React 
 
 Use this skill for Expo React Native applications built with TypeScript and organized with Atomic Design.
 
-Before making project changes, read and follow `AGENTS.md`. It is the authoritative pattern definition for component hierarchy, folder structure, TypeScript rules, styling, testing, state/data flow, navigation, assets, Expo-specific gotchas, and command selection.
+Before making project changes in a target app, read and follow `references/expo-ts-dev-pattern.md`. It is the authoritative pattern definition for component hierarchy, folder structure, TypeScript rules, styling, testing, state/data flow, navigation, assets, Expo-specific gotchas, and command selection.
+
+Do not rely on this skill's `AGENTS.md` file as the skill payload. `AGENTS.md` is repository guidance that Codex reads when working inside this skill repository; the reusable skill workflow is driven by `SKILL.md` and its referenced files.
 
 When working in a target app:
 

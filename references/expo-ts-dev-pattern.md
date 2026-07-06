@@ -1,6 +1,6 @@
-# AGENTS.md — expo-ts-dev-pattern
+# Expo TS Dev Pattern Reference
 
-This file is repository guidance for agents editing the `expo-ts-dev-pattern` skill repo. For the reusable skill payload, keep `SKILL.md` and `references/expo-ts-dev-pattern.md` authoritative; `AGENTS.md` is not automatically loaded just because this folder is installed as a skill.
+This reference is the authoritative detailed guidance loaded by the `expo-ts-dev-pattern` skill. Keep it in sync with `SKILL.md` when changing the skill's scope or workflow.
 
 ## Project Type
 
